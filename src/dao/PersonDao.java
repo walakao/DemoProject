@@ -9,7 +9,7 @@ import pojo.Person;
  */
 public interface PersonDao {
 
-    Person[] findAll();
+    Person[] findAll(String name);
 
     Person findPersonByName(String name);
 
