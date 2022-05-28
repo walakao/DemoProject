@@ -8,5 +8,6 @@ package com.demo;
 public class Demo {
     public static void main(String[] args) {
         System.out.println("项目开始了！");
+        System.out.println("我准备好了");
     }
 }
